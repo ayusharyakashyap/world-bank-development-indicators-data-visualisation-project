@@ -1,0 +1,56 @@
+country,year,individuals_using_internet%,access_to_electricity%
+"High income",2010,72,100
+"High income",2011,72,100
+"High income",2012,75,100
+"High income",2013,76,100
+"High income",2014,78,100
+"High income",2015,79,100
+"High income",2016,84,100
+"High income",2017,85,100
+"High income",2018,87,100
+"High income",2019,88,100
+"High income",2020,89,100
+"Low & middle income",2010,20,80
+"Low & middle income",2011,23,82
+"Low & middle income",2012,25,82
+"Low & middle income",2013,27,83
+"Low & middle income",2014,30,84
+"Low & middle income",2015,32,84
+"Low & middle income",2016,35,86
+"Low & middle income",2017,38,87
+"Low & middle income",2018,42,88
+"Low & middle income",2019,47,88
+"Low & middle income",2020,54,89
+"Low income",2010,3,26
+"Low income",2011,4,27
+"Low income",2012,5,30
+"Low income",2013,6,31
+"Low income",2014,7,32
+"Low income",2015,9,32
+"Low income",2016,11,37
+"Low income",2017,13,39
+"Low income",2018,14,40
+"Low income",2019,16,42
+"Low income",2020,19,43
+"Lower middle income",2010,11,73
+"Lower middle income",2011,13,76
+"Lower middle income",2012,14,77
+"Lower middle income",2013,16,78
+"Lower middle income",2014,19,80
+"Lower middle income",2015,21,82
+"Lower middle income",2016,24,84
+"Lower middle income",2017,27,86
+"Lower middle income",2018,30,88
+"Lower middle income",2019,36,88
+"Lower middle income",2020,45,89
+"Middle income",2010,21,85
+"Middle income",2011,25,87
+"Middle income",2012,27,87
+"Middle income",2013,29,88
+"Middle income",2014,32,89
+"Middle income",2015,35,90
+"Middle income",2016,38,91
+"Middle income",2017,40,92
+"Middle income",2018,44,93
+"Middle income",2019,50,93
+"Middle income",2020,57,94
